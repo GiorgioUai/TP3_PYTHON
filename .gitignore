@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos de VS Code
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Gráficos generados
+# Se mantiene la carpeta, pero los gráficos se pueden regenerar desde el programa.
+graficos/*.png
+!graficos/.gitkeep
