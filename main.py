@@ -12,6 +12,7 @@ from funciones_analisis import (
     mostrar_resumen_estadistico,
     mostrar_ventas_por_categoria,
     filtrar_ventas_importantes,
+    generar_graficos,
 )
 
 
@@ -61,7 +62,11 @@ def ejecutar_programa():
             print(ventas_filtradas.head(15).to_string(index=False))
             print(f"\nCantidad de ventas encontradas: {len(ventas_filtradas)}")
         elif opcion == "5":
-            print("Esta opción se completará en la próxima iteración con Matplotlib.")
+            rutas_graficos = generar_graficos(df)
+            print("\nGráficos generados correctamente:")
+
+            for ruta in rutas_graficos:
+                print(f"- {ruta}")
         elif opcion == "6":
             print("Esta opción se completará en una próxima iteración con una predicción simple.")
         elif opcion == "0":
