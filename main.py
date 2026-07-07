@@ -1,10 +1,18 @@
 """
 TP Integrador Python - Análisis de ventas de videojuegos.
 
-Este archivo será el punto de entrada del proyecto.
-En las próximas iteraciones se agregará la carga del CSV, las transformaciones,
-las métricas, los gráficos y la predicción simple.
+Programa principal del proyecto. Desde este archivo se muestra un menú por
+consola y se llaman funciones definidas en el módulo funciones_analisis.py.
 """
+
+from funciones_analisis import (
+    cargar_dataset,
+    preparar_dataset,
+    mostrar_primeras_filas,
+    mostrar_resumen_estadistico,
+    mostrar_ventas_por_categoria,
+    filtrar_ventas_importantes,
+)
 
 
 def mostrar_menu():
@@ -13,13 +21,27 @@ def mostrar_menu():
     print("1. Ver primeras filas del dataset")
     print("2. Ver resumen estadístico")
     print("3. Ver ventas por categoría")
-    print("4. Generar gráficos")
-    print("5. Ver predicción simple")
+    print("4. Filtrar ventas importantes")
+    print("5. Generar gráficos")
+    print("6. Ver predicción simple")
     print("0. Salir")
+
+
+def pedir_monto_minimo():
+    """Solicita al usuario un monto mínimo para filtrar ventas."""
+    entrada = input("Ingrese el monto mínimo de venta: ")
+
+    try:
+        return float(entrada)
+    except ValueError:
+        print("El valor ingresado no es válido. Se usará el monto mínimo 100000.")
+        return 100000.0
 
 
 def ejecutar_programa():
     """Ejecuta el menú principal del programa."""
+    df_original = cargar_dataset()
+    df = preparar_dataset(df_original)
     opcion = ""
 
     while opcion != "0":
@@ -27,15 +49,21 @@ def ejecutar_programa():
         opcion = input("Seleccione una opción: ")
 
         if opcion == "1":
-            print("Esta opción se completará cuando agreguemos el dataset.")
+            mostrar_primeras_filas(df)
         elif opcion == "2":
-            print("Esta opción se completará cuando agreguemos las métricas.")
+            mostrar_resumen_estadistico(df)
         elif opcion == "3":
-            print("Esta opción se completará cuando agreguemos el análisis por categoría.")
+            mostrar_ventas_por_categoria(df)
         elif opcion == "4":
-            print("Esta opción se completará cuando agreguemos los gráficos.")
+            monto_minimo = pedir_monto_minimo()
+            ventas_filtradas = filtrar_ventas_importantes(df, monto_minimo)
+            print(f"\nVentas encontradas con total mayor o igual a ${monto_minimo:,.2f}:")
+            print(ventas_filtradas.head(15).to_string(index=False))
+            print(f"\nCantidad de ventas encontradas: {len(ventas_filtradas)}")
         elif opcion == "5":
-            print("Esta opción se completará cuando agreguemos la predicción simple.")
+            print("Esta opción se completará en la próxima iteración con Matplotlib.")
+        elif opcion == "6":
+            print("Esta opción se completará en una próxima iteración con una predicción simple.")
         elif opcion == "0":
             print("Programa finalizado.")
         else:
