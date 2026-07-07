@@ -1,0 +1,241 @@
+fecha,producto,categoria,precio_unitario,cantidad,medio_pago,provincia,cliente_frecuente,descuento
+2025-01-13,Gran Turismo 7,Carreras,54999,2,Tarjeta de credito,Santa Fe,True,5499.9
+2025-02-14,Mario Kart 8 Deluxe,Carreras,57999,2,Efectivo,Buenos Aires,True,0
+2025-11-05,The Sims 4 Pack,Simulacion,19999,1,Tarjeta de credito,Salta,False,0
+2025-05-23,Pokemon Legends,Aventura,64999,3,Efectivo,Cordoba,False,0
+2025-04-21,Mortal Kombat 1,Lucha,52999,4,Tarjeta de debito,CABA,True,0
+2025-06-26,Resident Evil 4 Remake,Terror,53999,2,Efectivo,Neuquen,True,16199.7
+2025-02-10,Silent Hill 2,Terror,59999,2,Transferencia,Tucuman,True,5999.9
+2025-12-05,NBA 2K25,Deportes,64999,1,Tarjeta de debito,CABA,True,6499.9
+2025-05-23,Silent Hill 2,Terror,59999,1,Tarjeta de debito,Cordoba,False,0
+2025-12-26,The Legend of Zelda,Aventura,62999,4,Efectivo,Rio Negro,True,12599.8
+2025-03-25,Hogwarts Legacy,Aventura,57999,1,Tarjeta de debito,Salta,True,2899.95
+2025-04-28,NBA 2K25,Deportes,64999,3,Tarjeta de debito,Entre Rios,False,0
+2025-06-11,Pokemon Legends,Aventura,64999,1,Mercado Pago,Entre Rios,False,0
+2025-05-07,Mortal Kombat 1,Lucha,52999,2,Transferencia,Mendoza,False,10599.8
+2025-07-05,Silent Hill 2,Terror,59999,1,Tarjeta de credito,Salta,False,0
+2025-02-26,NBA 2K25,Deportes,64999,1,Tarjeta de credito,Entre Rios,True,0
+2025-08-28,Call of Duty MWIII,Accion,69999,2,Transferencia,Buenos Aires,True,6999.9
+2025-05-17,Mario Kart 8 Deluxe,Carreras,57999,2,Tarjeta de debito,CABA,False,0
+2025-01-02,Age of Empires IV,Estrategia,39999,4,Tarjeta de debito,Salta,True,7999.8
+2025-11-17,Gran Turismo 7,Carreras,54999,1,Transferencia,Rio Negro,True,0
+2025-10-04,Street Fighter 6,Lucha,48999,4,Transferencia,Buenos Aires,False,0
+2025-07-05,Gran Turismo 7,Carreras,54999,3,Tarjeta de debito,Santa Fe,True,0
+2025-02-10,Pokemon Legends,Aventura,64999,1,Mercado Pago,CABA,True,0
+2025-10-09,Animal Crossing,Simulacion,44999,1,Transferencia,Rio Negro,False,6749.85
+2025-12-20,Mario Kart 8 Deluxe,Carreras,57999,1,Tarjeta de debito,Entre Rios,False,0
+2025-08-20,The Sims 4 Pack,Simulacion,19999,1,Tarjeta de credito,CABA,False,0
+2025-04-28,Mario Kart 8 Deluxe,Carreras,57999,2,Efectivo,CABA,True,0
+2025-06-19,NBA 2K25,Deportes,64999,1,Tarjeta de credito,Mendoza,False,0
+2025-10-20,Mortal Kombat 1,Lucha,52999,2,Tarjeta de credito,Neuquen,False,0
+2025-12-04,Gran Turismo 7,Carreras,54999,1,Mercado Pago,Entre Rios,False,5499.9
+2025-12-11,NBA 2K25,Deportes,64999,2,Efectivo,Buenos Aires,False,6499.9
+2025-05-08,Gran Turismo 7,Carreras,54999,1,Transferencia,Neuquen,True,0
+2025-08-25,The Legend of Zelda,Aventura,62999,1,Efectivo,Neuquen,True,0
+2025-01-08,Mario Kart 8 Deluxe,Carreras,57999,4,Tarjeta de credito,Cordoba,False,0
+2025-07-25,Minecraft,Aventura,24999,3,Tarjeta de credito,Entre Rios,True,11249.55
+2025-08-21,The Legend of Zelda,Aventura,62999,1,Transferencia,Neuquen,True,0
+2025-01-30,Minecraft,Aventura,24999,2,Transferencia,Buenos Aires,False,0
+2025-09-02,Pokemon Legends,Aventura,64999,1,Transferencia,Cordoba,True,9749.85
+2025-04-06,F1 24,Carreras,59999,1,Efectivo,Santa Fe,False,0
+2025-05-07,Pokemon Legends,Aventura,64999,2,Efectivo,Rio Negro,True,0
+2025-10-17,Pokemon Legends,Aventura,64999,2,Tarjeta de debito,Santa Fe,False,0
+2025-03-09,Silent Hill 2,Terror,59999,2,Tarjeta de debito,Neuquen,False,11999.8
+2025-01-05,F1 24,Carreras,59999,1,Transferencia,CABA,True,2999.95
+2025-05-16,The Sims 4 Pack,Simulacion,19999,1,Tarjeta de debito,CABA,True,0
+2025-08-13,Street Fighter 6,Lucha,48999,3,Tarjeta de debito,Rio Negro,True,7349.85
+2025-06-03,Mario Kart 8 Deluxe,Carreras,57999,4,Efectivo,Cordoba,False,0
+2025-10-11,Gran Turismo 7,Carreras,54999,1,Tarjeta de debito,Rio Negro,True,2749.95
+2025-12-18,Minecraft,Aventura,24999,2,Tarjeta de debito,Salta,False,0
+2025-02-17,NBA 2K25,Deportes,64999,2,Tarjeta de debito,Buenos Aires,True,0
+2025-11-23,Mortal Kombat 1,Lucha,52999,4,Tarjeta de credito,Neuquen,False,10599.8
+2025-02-08,Gran Turismo 7,Carreras,54999,4,Tarjeta de credito,Salta,True,21999.6
+2025-10-10,Pokemon Legends,Aventura,64999,1,Tarjeta de credito,Buenos Aires,False,0
+2025-07-03,NBA 2K25,Deportes,64999,1,Tarjeta de credito,CABA,False,6499.9
+2025-11-14,Civilization VI,Estrategia,29999,2,Tarjeta de credito,Cordoba,True,5999.8
+2025-04-02,EA Sports FC 25,Deportes,69999,2,Tarjeta de debito,Entre Rios,True,0
+2025-07-15,Gran Turismo 7,Carreras,54999,3,Mercado Pago,Santa Fe,True,16499.7
+2025-06-29,Age of Empires IV,Estrategia,39999,1,Tarjeta de credito,Santa Fe,True,1999.95
+2025-06-18,Silent Hill 2,Terror,59999,1,Efectivo,Mendoza,False,2999.95
+2025-12-14,Silent Hill 2,Terror,59999,5,Transferencia,Tucuman,True,0
+2025-04-02,The Legend of Zelda,Aventura,62999,2,Tarjeta de debito,Buenos Aires,True,6299.9
+2025-06-10,Resident Evil 4 Remake,Terror,53999,1,Transferencia,CABA,False,5399.9
+2025-05-11,Minecraft,Aventura,24999,1,Mercado Pago,Buenos Aires,True,0
+2025-12-07,F1 24,Carreras,59999,4,Transferencia,Tucuman,True,11999.8
+2025-09-17,God of War Ragnarok,Accion,68999,1,Mercado Pago,Tucuman,False,3449.95
+2025-03-07,Mario Kart 8 Deluxe,Carreras,57999,1,Mercado Pago,Cordoba,False,0
+2025-06-05,EA Sports FC 25,Deportes,69999,1,Mercado Pago,Rio Negro,False,0
+2025-12-12,Age of Empires IV,Estrategia,39999,1,Mercado Pago,Cordoba,True,0
+2025-06-21,Call of Duty MWIII,Accion,69999,1,Tarjeta de credito,Mendoza,True,6999.9
+2025-01-13,Mortal Kombat 1,Lucha,52999,1,Mercado Pago,Rio Negro,True,0
+2025-04-10,Pokemon Legends,Aventura,64999,2,Mercado Pago,Neuquen,False,0
+2025-02-24,EA Sports FC 25,Deportes,69999,2,Tarjeta de credito,Cordoba,False,0
+2025-03-04,Hogwarts Legacy,Aventura,57999,1,Mercado Pago,Salta,False,8699.85
+2025-11-10,Age of Empires IV,Estrategia,39999,3,Transferencia,Entre Rios,False,11999.7
+2025-08-19,Animal Crossing,Simulacion,44999,1,Tarjeta de credito,Mendoza,False,2249.95
+2025-08-14,The Legend of Zelda,Aventura,62999,1,Tarjeta de debito,Santa Fe,False,0
+2025-02-11,Mario Kart 8 Deluxe,Carreras,57999,1,Tarjeta de credito,Entre Rios,True,2899.95
+2025-08-01,F1 24,Carreras,59999,1,Transferencia,Neuquen,False,0
+2025-07-19,Civilization VI,Estrategia,29999,3,Transferencia,Buenos Aires,False,0
+2025-06-02,Resident Evil 4 Remake,Terror,53999,2,Mercado Pago,Salta,True,0
+2025-08-12,The Legend of Zelda,Aventura,62999,1,Mercado Pago,Tucuman,False,3149.95
+2025-03-07,Age of Empires IV,Estrategia,39999,5,Transferencia,Buenos Aires,False,9999.75
+2025-02-12,EA Sports FC 25,Deportes,69999,2,Tarjeta de credito,Neuquen,True,0
+2025-06-17,Silent Hill 2,Terror,59999,1,Tarjeta de debito,Tucuman,False,0
+2025-05-10,Civilization VI,Estrategia,29999,3,Mercado Pago,Buenos Aires,True,13499.55
+2025-04-25,Resident Evil 4 Remake,Terror,53999,2,Efectivo,Buenos Aires,True,0
+2025-11-15,EA Sports FC 25,Deportes,69999,1,Tarjeta de credito,Neuquen,True,3499.95
+2025-08-27,Minecraft,Aventura,24999,2,Tarjeta de debito,Cordoba,True,4999.8
+2025-06-09,Street Fighter 6,Lucha,48999,1,Efectivo,Mendoza,False,0
+2025-02-08,Minecraft,Aventura,24999,2,Tarjeta de credito,CABA,False,4999.8
+2025-03-03,Call of Duty MWIII,Accion,69999,2,Transferencia,Buenos Aires,False,6999.9
+2025-02-05,Resident Evil 4 Remake,Terror,53999,1,Tarjeta de debito,Buenos Aires,False,5399.9
+2025-08-10,Gran Turismo 7,Carreras,54999,4,Mercado Pago,Cordoba,False,0
+2025-11-30,The Sims 4 Pack,Simulacion,19999,1,Transferencia,Neuquen,False,0
+2025-05-18,Pokemon Legends,Aventura,64999,1,Tarjeta de credito,CABA,False,6499.9
+2025-08-26,Hogwarts Legacy,Aventura,57999,2,Mercado Pago,Tucuman,True,0
+2025-04-04,Spider-Man 2,Accion,72999,1,Tarjeta de debito,Mendoza,False,0
+2025-12-26,Call of Duty MWIII,Accion,69999,3,Transferencia,Buenos Aires,True,0
+2025-09-08,Civilization VI,Estrategia,29999,2,Tarjeta de credito,Neuquen,False,0
+2025-02-17,EA Sports FC 25,Deportes,69999,1,Mercado Pago,Santa Fe,False,3499.95
+2025-08-31,Resident Evil 4 Remake,Terror,53999,2,Tarjeta de debito,Entre Rios,False,0
+2025-05-19,Age of Empires IV,Estrategia,39999,1,Tarjeta de credito,CABA,True,0
+2025-12-20,Mario Kart 8 Deluxe,Carreras,57999,1,Tarjeta de credito,Neuquen,False,2899.95
+2025-11-02,The Sims 4 Pack,Simulacion,19999,1,Efectivo,Santa Fe,False,0
+2025-06-04,Street Fighter 6,Lucha,48999,1,Transferencia,Cordoba,False,0
+2025-10-11,NBA 2K25,Deportes,64999,1,Tarjeta de credito,Neuquen,True,6499.9
+2025-05-26,Pokemon Legends,Aventura,64999,1,Mercado Pago,Tucuman,True,9749.85
+2025-09-02,The Legend of Zelda,Aventura,62999,1,Efectivo,Entre Rios,False,0
+2025-03-19,NBA 2K25,Deportes,64999,1,Transferencia,Mendoza,True,9749.85
+2025-10-13,Gran Turismo 7,Carreras,54999,2,Transferencia,Rio Negro,True,10999.8
+2025-08-19,Silent Hill 2,Terror,59999,3,Tarjeta de debito,Rio Negro,False,0
+2025-01-31,Call of Duty MWIII,Accion,69999,2,Efectivo,Santa Fe,True,0
+2025-03-22,F1 24,Carreras,59999,1,Transferencia,CABA,True,0
+2025-12-19,Age of Empires IV,Estrategia,39999,2,Tarjeta de debito,Buenos Aires,True,0
+2025-12-26,God of War Ragnarok,Accion,68999,3,Efectivo,Santa Fe,False,20699.7
+2025-12-05,Pokemon Legends,Aventura,64999,3,Tarjeta de credito,Entre Rios,True,9749.85
+2025-05-17,Mortal Kombat 1,Lucha,52999,3,Efectivo,Buenos Aires,True,15899.7
+2025-10-19,Call of Duty MWIII,Accion,69999,4,Mercado Pago,CABA,False,13999.8
+2025-05-20,Silent Hill 2,Terror,59999,1,Mercado Pago,Neuquen,True,2999.95
+2025-06-15,Civilization VI,Estrategia,29999,2,Efectivo,CABA,True,8999.7
+2025-10-28,Pokemon Legends,Aventura,64999,4,Tarjeta de debito,Rio Negro,True,25999.6
+2025-08-29,Street Fighter 6,Lucha,48999,1,Mercado Pago,Mendoza,True,7349.85
+2025-11-22,Civilization VI,Estrategia,29999,3,Efectivo,Neuquen,False,0
+2025-12-10,Spider-Man 2,Accion,72999,1,Tarjeta de credito,Tucuman,False,3649.95
+2025-12-06,God of War Ragnarok,Accion,68999,4,Transferencia,Buenos Aires,False,0
+2025-06-15,The Legend of Zelda,Aventura,62999,1,Mercado Pago,Salta,True,3149.95
+2025-08-25,Mario Kart 8 Deluxe,Carreras,57999,1,Tarjeta de credito,Salta,False,2899.95
+2025-11-17,Animal Crossing,Simulacion,44999,1,Efectivo,Santa Fe,False,2249.95
+2025-08-13,God of War Ragnarok,Accion,68999,3,Mercado Pago,CABA,True,31049.55
+2025-05-03,Call of Duty MWIII,Accion,69999,2,Tarjeta de debito,Salta,True,6999.9
+2025-04-26,F1 24,Carreras,59999,5,Efectivo,Neuquen,True,14999.75
+2025-09-13,Mortal Kombat 1,Lucha,52999,4,Tarjeta de debito,Salta,False,0
+2025-08-30,Animal Crossing,Simulacion,44999,1,Transferencia,Cordoba,False,0
+2025-09-18,Call of Duty MWIII,Accion,69999,2,Tarjeta de credito,CABA,False,13999.8
+2025-06-24,Civilization VI,Estrategia,29999,4,Transferencia,Mendoza,True,0
+2025-10-28,God of War Ragnarok,Accion,68999,2,Mercado Pago,Cordoba,False,6899.9
+2025-06-20,Resident Evil 4 Remake,Terror,53999,2,Transferencia,Entre Rios,False,16199.7
+2025-12-24,Minecraft,Aventura,24999,1,Mercado Pago,Santa Fe,False,0
+2025-12-28,Animal Crossing,Simulacion,44999,3,Mercado Pago,Entre Rios,True,0
+2025-03-06,NBA 2K25,Deportes,64999,1,Transferencia,Tucuman,True,6499.9
+2025-02-21,Age of Empires IV,Estrategia,39999,2,Mercado Pago,Buenos Aires,True,0
+2025-02-08,Mortal Kombat 1,Lucha,52999,1,Tarjeta de debito,Tucuman,False,2649.95
+2025-12-12,Spider-Man 2,Accion,72999,3,Mercado Pago,Tucuman,False,21899.7
+2025-11-13,NBA 2K25,Deportes,64999,1,Tarjeta de debito,Santa Fe,True,0
+2025-11-21,Gran Turismo 7,Carreras,54999,2,Efectivo,Neuquen,True,5499.9
+2025-01-24,EA Sports FC 25,Deportes,69999,1,Efectivo,Mendoza,False,0
+2025-05-06,Mortal Kombat 1,Lucha,52999,2,Transferencia,Cordoba,True,0
+2025-07-15,Call of Duty MWIII,Accion,69999,2,Tarjeta de credito,Neuquen,True,0
+2025-08-24,The Legend of Zelda,Aventura,62999,1,Efectivo,Neuquen,False,3149.95
+2025-02-07,Street Fighter 6,Lucha,48999,1,Tarjeta de debito,Rio Negro,False,2449.95
+2025-12-20,Civilization VI,Estrategia,29999,1,Tarjeta de debito,Santa Fe,False,2999.9
+2025-05-02,Gran Turismo 7,Carreras,54999,1,Tarjeta de debito,Rio Negro,False,8249.85
+2025-01-12,God of War Ragnarok,Accion,68999,4,Mercado Pago,Mendoza,True,13799.8
+2025-11-07,NBA 2K25,Deportes,64999,2,Tarjeta de debito,Santa Fe,False,0
+2025-11-14,Minecraft,Aventura,24999,1,Tarjeta de credito,CABA,True,0
+2025-01-18,Age of Empires IV,Estrategia,39999,2,Tarjeta de credito,CABA,False,0
+2025-03-31,Civilization VI,Estrategia,29999,1,Transferencia,Tucuman,False,2999.9
+2025-09-04,The Legend of Zelda,Aventura,62999,4,Tarjeta de debito,Tucuman,True,0
+2025-03-14,F1 24,Carreras,59999,2,Tarjeta de credito,Entre Rios,False,0
+2025-01-08,Silent Hill 2,Terror,59999,1,Efectivo,Neuquen,False,2999.95
+2025-10-27,The Legend of Zelda,Aventura,62999,1,Tarjeta de debito,CABA,True,0
+2025-10-15,Call of Duty MWIII,Accion,69999,1,Transferencia,Santa Fe,True,3499.95
+2025-12-25,Age of Empires IV,Estrategia,39999,1,Mercado Pago,CABA,True,0
+2025-06-05,NBA 2K25,Deportes,64999,5,Efectivo,CABA,True,32499.5
+2025-07-18,Mortal Kombat 1,Lucha,52999,1,Transferencia,Entre Rios,True,5299.9
+2025-09-08,Gran Turismo 7,Carreras,54999,2,Tarjeta de debito,Buenos Aires,False,0
+2025-05-01,Age of Empires IV,Estrategia,39999,3,Efectivo,Tucuman,False,0
+2025-04-08,The Legend of Zelda,Aventura,62999,4,Mercado Pago,CABA,True,12599.8
+2025-01-11,Call of Duty MWIII,Accion,69999,1,Tarjeta de debito,Santa Fe,True,6999.9
+2025-02-05,Minecraft,Aventura,24999,3,Transferencia,Santa Fe,True,7499.7
+2025-06-18,Hogwarts Legacy,Aventura,57999,2,Transferencia,Buenos Aires,False,11599.8
+2025-03-08,Mortal Kombat 1,Lucha,52999,2,Tarjeta de credito,CABA,True,0
+2025-05-02,Resident Evil 4 Remake,Terror,53999,2,Efectivo,Cordoba,False,0
+2025-09-27,Civilization VI,Estrategia,29999,1,Efectivo,Neuquen,False,2999.9
+2025-10-31,The Sims 4 Pack,Simulacion,19999,1,Transferencia,Santa Fe,True,999.95
+2025-06-04,The Sims 4 Pack,Simulacion,19999,1,Efectivo,Buenos Aires,False,1999.9
+2025-12-18,Civilization VI,Estrategia,29999,1,Mercado Pago,CABA,True,0
+2025-02-03,Mortal Kombat 1,Lucha,52999,1,Transferencia,Rio Negro,False,0
+2025-09-29,Call of Duty MWIII,Accion,69999,1,Transferencia,Rio Negro,False,0
+2025-12-02,Gran Turismo 7,Carreras,54999,2,Transferencia,Santa Fe,False,0
+2025-07-31,Hogwarts Legacy,Aventura,57999,1,Mercado Pago,Entre Rios,False,2899.95
+2025-08-07,Spider-Man 2,Accion,72999,1,Tarjeta de debito,Tucuman,True,3649.95
+2025-02-04,Animal Crossing,Simulacion,44999,1,Efectivo,CABA,False,0
+2025-03-08,Resident Evil 4 Remake,Terror,53999,2,Transferencia,Salta,False,5399.9
+2025-07-01,Civilization VI,Estrategia,29999,3,Mercado Pago,Buenos Aires,False,4499.85
+2025-02-23,Resident Evil 4 Remake,Terror,53999,2,Tarjeta de credito,Cordoba,False,0
+2025-06-29,Gran Turismo 7,Carreras,54999,3,Tarjeta de debito,CABA,False,8249.85
+2025-10-15,Civilization VI,Estrategia,29999,4,Transferencia,Rio Negro,True,5999.8
+2025-01-15,The Legend of Zelda,Aventura,62999,1,Tarjeta de debito,Tucuman,False,0
+2025-10-17,Mortal Kombat 1,Lucha,52999,2,Efectivo,Cordoba,True,0
+2025-04-21,The Sims 4 Pack,Simulacion,19999,1,Mercado Pago,Tucuman,True,0
+2025-10-18,Spider-Man 2,Accion,72999,2,Efectivo,Cordoba,True,14599.8
+2025-12-12,NBA 2K25,Deportes,64999,1,Mercado Pago,Entre Rios,False,3249.95
+2025-05-20,Civilization VI,Estrategia,29999,1,Transferencia,CABA,False,0
+2025-12-14,God of War Ragnarok,Accion,68999,2,Mercado Pago,Salta,False,0
+2025-11-03,Silent Hill 2,Terror,59999,1,Tarjeta de credito,Mendoza,True,5999.9
+2025-05-29,The Legend of Zelda,Aventura,62999,1,Efectivo,Neuquen,False,0
+2025-09-30,Silent Hill 2,Terror,59999,2,Transferencia,Salta,False,0
+2025-08-12,NBA 2K25,Deportes,64999,1,Efectivo,Tucuman,False,3249.95
+2025-05-29,Civilization VI,Estrategia,29999,1,Efectivo,Tucuman,True,2999.9
+2025-08-24,Call of Duty MWIII,Accion,69999,3,Tarjeta de debito,CABA,False,20999.7
+2025-08-12,Hogwarts Legacy,Aventura,57999,2,Transferencia,CABA,False,11599.8
+2025-04-24,Spider-Man 2,Accion,72999,1,Tarjeta de credito,CABA,True,3649.95
+2025-06-28,Minecraft,Aventura,24999,1,Tarjeta de credito,Santa Fe,True,0
+2025-03-30,Minecraft,Aventura,24999,2,Efectivo,Cordoba,False,0
+2025-10-24,Pokemon Legends,Aventura,64999,1,Transferencia,Rio Negro,False,6499.9
+2025-03-19,Spider-Man 2,Accion,72999,1,Mercado Pago,Neuquen,False,7299.9
+2025-01-29,Pokemon Legends,Aventura,64999,1,Efectivo,Mendoza,False,0
+2025-07-08,NBA 2K25,Deportes,64999,3,Efectivo,CABA,False,0
+2025-01-22,Mario Kart 8 Deluxe,Carreras,57999,1,Transferencia,Santa Fe,False,2899.95
+2025-03-19,The Sims 4 Pack,Simulacion,19999,4,Mercado Pago,CABA,False,11999.4
+2025-09-16,F1 24,Carreras,59999,2,Efectivo,Santa Fe,False,17999.7
+2025-09-25,The Sims 4 Pack,Simulacion,19999,2,Tarjeta de debito,Tucuman,False,0
+2025-12-14,Spider-Man 2,Accion,72999,2,Tarjeta de debito,CABA,False,0
+2025-05-26,Silent Hill 2,Terror,59999,1,Transferencia,Cordoba,False,0
+2025-06-29,Mortal Kombat 1,Lucha,52999,1,Mercado Pago,Cordoba,True,0
+2025-11-26,Silent Hill 2,Terror,59999,2,Tarjeta de credito,Salta,True,5999.9
+2025-09-18,Civilization VI,Estrategia,29999,1,Tarjeta de debito,Mendoza,True,4499.85
+2025-09-06,Spider-Man 2,Accion,72999,1,Tarjeta de credito,Cordoba,True,0
+2025-09-17,Gran Turismo 7,Carreras,54999,2,Transferencia,Buenos Aires,False,10999.8
+2025-03-09,Call of Duty MWIII,Accion,69999,2,Tarjeta de credito,Cordoba,True,13999.8
+2025-03-26,Call of Duty MWIII,Accion,69999,2,Efectivo,Entre Rios,False,6999.9
+2025-08-16,Hogwarts Legacy,Aventura,57999,2,Mercado Pago,Santa Fe,True,0
+2025-04-10,Animal Crossing,Simulacion,44999,1,Transferencia,Neuquen,False,4499.9
+2025-09-15,Silent Hill 2,Terror,59999,2,Tarjeta de credito,Santa Fe,True,11999.8
+2025-11-25,NBA 2K25,Deportes,64999,1,Tarjeta de debito,Salta,True,3249.95
+2025-03-05,The Sims 4 Pack,Simulacion,19999,1,Tarjeta de credito,Mendoza,False,1999.9
+2025-08-12,Mortal Kombat 1,Lucha,52999,1,Tarjeta de credito,Neuquen,False,7949.85
+2025-01-28,Civilization VI,Estrategia,29999,1,Tarjeta de debito,Santa Fe,False,4499.85
+2025-04-25,Resident Evil 4 Remake,Terror,53999,1,Efectivo,Tucuman,True,0
+2025-08-30,God of War Ragnarok,Accion,68999,2,Tarjeta de credito,Neuquen,False,6899.9
+2025-01-10,F1 24,Carreras,59999,1,Tarjeta de credito,Salta,False,0
+2025-05-02,God of War Ragnarok,Accion,68999,1,Efectivo,Santa Fe,False,3449.95
+2025-08-23,Call of Duty MWIII,Accion,69999,1,Mercado Pago,Rio Negro,True,3499.95
+2025-05-04,Pokemon Legends,Aventura,64999,2,Tarjeta de debito,Entre Rios,True,6499.9
+2025-10-20,Hogwarts Legacy,Aventura,57999,1,Efectivo,Salta,False,0
+2025-10-06,The Sims 4 Pack,Simulacion,19999,1,Transferencia,Salta,True,0
+2025-01-23,Animal Crossing,Simulacion,44999,2,Tarjeta de debito,Mendoza,True,0
+2025-06-26,F1 24,Carreras,59999,1,Efectivo,Rio Negro,False,0
+2025-10-07,Resident Evil 4 Remake,Terror,53999,1,Tarjeta de credito,Neuquen,False,2699.95
+2025-02-02,Mortal Kombat 1,Lucha,52999,2,Mercado Pago,Buenos Aires,False,0
