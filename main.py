@@ -5,6 +5,7 @@ Programa principal del proyecto. Desde este archivo se muestra un menú por
 consola y se llaman funciones definidas en el módulo funciones_analisis.py.
 """
 
+from analizador_ventas import AnalizadorVentas
 from funciones_analisis import (
     cargar_dataset,
     preparar_dataset,
@@ -39,10 +40,35 @@ def pedir_monto_minimo():
         return 100000.0
 
 
+def mostrar_prediccion(analizador):
+    """Muestra la predicción simple generada por la clase AnalizadorVentas."""
+    df_normalizado = analizador.normalizar_total_venta()
+    resultado = analizador.predecir_ventas_proximo_periodo()
+
+    print("\nPredicción simple de ventas")
+    print("Algoritmo usado: regresión lineal simple con NumPy.")
+    print("Variable de entrada: mes.")
+    print("Variable a predecir: total vendido por mes.")
+    print(f"Promedio mensual de ventas: ${resultado['promedio_mensual']:,.2f}")
+    print(f"Pendiente calculada: {resultado['pendiente']:,.2f}")
+    print(
+        f"Predicción para el período {resultado['proximo_periodo']}: "
+        f"${resultado['prediccion']:,.2f}"
+    )
+
+    print("\nEjemplo de columna normalizada con NumPy:")
+    print(
+        df_normalizado[["Producto", "Total_Venta", "Venta_Normalizada"]]
+        .head(5)
+        .to_string(index=False)
+    )
+
+
 def ejecutar_programa():
     """Ejecuta el menú principal del programa."""
     df_original = cargar_dataset()
     df = preparar_dataset(df_original)
+    analizador = AnalizadorVentas(df)
     opcion = ""
 
     while opcion != "0":
@@ -68,7 +94,7 @@ def ejecutar_programa():
             for ruta in rutas_graficos:
                 print(f"- {ruta}")
         elif opcion == "6":
-            print("Esta opción se completará en una próxima iteración con una predicción simple.")
+            mostrar_prediccion(analizador)
         elif opcion == "0":
             print("Programa finalizado.")
         else:
